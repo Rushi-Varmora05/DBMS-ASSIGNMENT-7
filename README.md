@@ -23,19 +23,19 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 1) **Load the dataset:** The code first loads the Titanic dataset (train.csv) and displays the first few rows.
 
 2) **Preprocessing:**
-  Missing values in the 'Age' column are filled with the median age.
-  Missing values in the 'Embarked' column are filled with the most common embarkation point.
-  The 'Cabin' column is dropped due to a high number of missing values.
+  Missing values in the 'Age' column are filled with the median age. /n
+  Missing values in the 'Embarked' column are filled with the most common embarkation point. /n
+  The 'Cabin' column is dropped due to a high number of missing values. /n
   Titles are extracted from names, and a family size feature is created.
 
 3) **Feature Engineering:**
-  Numerical features (Age, Fare, FamilySize) are scaled using StandardScaler.
+  Numerical features (Age, Fare, FamilySize) are scaled using StandardScaler. /n
   Categorical features (Sex, Embarked, Title) are one-hot encoded.
 
 4) **Data Transformation:**
   The transformed data is stored in a SQLite database (titanic.db).
 
 5) **Model Training and Evaluation:**
-  The data is split into training and testing sets.
+  The data is split into training and testing sets. /n
   A logistic regression model is trained and evaluated on the test set.
 
