@@ -35,9 +35,9 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 4) **Data Transformation:** <br/>
   The transformed data is stored in a SQLite database (titanic.db). <br/>
 
-5) **Model Training and Evaluation:**
-  The data is split into training and testing sets. 
-  A logistic regression model is trained and evaluated on the test set.
+5) **Model Training and Evaluation:** <br/>
+  The data is split into training and testing sets.  <br/>
+  A logistic regression model is trained and evaluated on the test set. <br/>
 
 ## To run the code, execute: <br/>
    python main.py
