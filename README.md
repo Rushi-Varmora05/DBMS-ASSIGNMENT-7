@@ -12,8 +12,8 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 
 1) Clone the repository: <br/>
 ```bash
-   https://github.com/Rushi-Varmora05/DBMS-ASSIGNMENT-7.git
-   cd DBMS-ASSIGNMENT-7
+pnpm git clone https://github.com/Rushi-Varmora05/DBMS-ASSIGNMENT-7.git
+pnpm cd DBMS-ASSIGNMENT-7
 ```
 2) Create a virtual environment and activate it: <br/> 
 ```bash 
