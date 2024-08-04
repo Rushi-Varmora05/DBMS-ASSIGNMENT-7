@@ -16,11 +16,14 @@ The dataset used in this project is the Titanic dataset, which can be found on K
    cd DBMS-ASSIGNMENT-7
 ```
 2) Create a virtual environment and activate it: <br/> 
-   python -m venv venv <br/>
-   venv\Scripts\activate <br/>
+```bash 
+   python -m venv venv
+   venv\Scripts\activate
+```
 3) Install the required packages: <br/>
-   pip install -r requirements.txt <br/>
-
+```bash
+   pip install -r requirements.txt
+```
 ## Usage
 1) **Load the dataset:** The code first loads the Titanic dataset (train.csv) and displays the first few rows.
 
@@ -42,8 +45,9 @@ The dataset used in this project is the Titanic dataset, which can be found on K
   A logistic regression model is trained and evaluated on the test set. <br/>
 
 ## To run the code, execute: <br/>
+```bash
    python main.py
-
+```
 ## Model and Techniques
 **Preprocessing:** Handling missing values, feature extraction, scaling, and encoding. <br/>
 **Model:** Logistic Regression. <br/>
