@@ -11,8 +11,10 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 ### To set up this project locally, follow these steps:
 
 1) Clone the repository: <br/>
-   https://github.com/Rushi-Varmora05/DBMS-ASSIGNMENT-7.git <br/>
-   cd DBMS-ASSIGNMENT-7 <br/>
+```bash
+   https://github.com/Rushi-Varmora05/DBMS-ASSIGNMENT-7.git
+   cd DBMS-ASSIGNMENT-7
+```
 2) Create a virtual environment and activate it: <br/> 
    python -m venv venv <br/>
    venv\Scripts\activate <br/>
