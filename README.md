@@ -16,8 +16,8 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 2) Create a virtual environment and activate it: <br/> 
    python -m venv venv <br/>
    venv\Scripts\activate <br/>
-3)Install the required packages: <br/>
-  pip install -r requirements.txt <br/>
+3) Install the required packages: <br/>
+   pip install -r requirements.txt <br/>
 
 ## Usage
 1) **Load the dataset:** The code first loads the Titanic dataset (train.csv) and displays the first few rows.
