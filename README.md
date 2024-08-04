@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## To run the code, execute: <br/>
 ```bash
-python main.py
+python dbms_assignment7.py
 ```
 ## Model and Techniques
 **Preprocessing:** Handling missing values, feature extraction, scaling, and encoding. <br/>
