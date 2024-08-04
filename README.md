@@ -23,9 +23,9 @@ The dataset used in this project is the Titanic dataset, which can be found on K
 1) **Load the dataset:** The code first loads the Titanic dataset (train.csv) and displays the first few rows.
 
 2) **Preprocessing:**
-  Missing values in the 'Age' column are filled with the median age.\
-  Missing values in the 'Embarked' column are filled with the most common embarkation point.\ 
-  The 'Cabin' column is dropped due to a high number of missing values.\ 
+  Missing values in the 'Age' column are filled with the median age. \
+  Missing values in the 'Embarked' column are filled with the most common embarkation point. \ 
+  The 'Cabin' column is dropped due to a high number of missing values. \ 
   Titles are extracted from names, and a family size feature is created.
 
 3) **Feature Engineering:**
